@@ -1,0 +1,13 @@
+# Environment variables — berisi API key, tidak boleh di-commit
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Artefak download Windows
+*:Zone.Identifier
